@@ -3,7 +3,7 @@ import Heading from './Heading'
 import Home from './Homecopy'
 import ModelList from './ModelList'
 import Mode from './Mode'
-import Testcomp from './Testcomp';
+// import Testcomp from './Testcomp';
 
 
 function App() {

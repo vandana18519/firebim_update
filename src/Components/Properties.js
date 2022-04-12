@@ -26,7 +26,7 @@ import TableCell, { tableCellClasses } from '@mui/material/TableCell';
 
 import {Button} from "./Button";
 import Details from "./Details";
-import Testcomp from "./Testcomp";
+// import Testcomp from "./Testcomp";
 
 export const Properties= (props) => {
 
