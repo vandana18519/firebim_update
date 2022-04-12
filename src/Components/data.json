@@ -35,7 +35,7 @@
                 },
                 {
                     "element_id": "123",
-                    "element": "Wall",						
+                    "element": "Beam",						
                     "Property": "Firerating 90mins",
                     "result": "Pass",
                     "remark": "It fufils the requirements"
@@ -98,7 +98,7 @@
                 },
                 {
                     "element_id": "123",
-                    "element": "Wall",
+                    "element": "Beam",
                     "Property": "Firerating 60mins",
                     "result": "Fail",
                     "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
@@ -140,7 +140,7 @@
                 },
                 {
                     "element_id": "123",
-                    "element": "Wall",
+                    "element": "Floor",
                     "Property": "Firerating 60mins",
                     "result": "Fail",
                     "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
@@ -175,7 +175,7 @@
                 },
                     {
                     "element_id": "123",
-                    "element": "Wall",						
+                    "element": "Beam",						
                     "Property": "Firerating 90mins",
                     "result": "Pass",
                     "remark": "It fufils the requirements"
@@ -196,7 +196,7 @@
                 },
                 {
                     "element_id": "123",
-                    "element": "Wall",
+                    "element": "Floor",
                     "Property": "Firerating 60mins",
                     "result": "Fail",
                     "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"

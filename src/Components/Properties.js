@@ -79,8 +79,9 @@ export const Properties= (props) => {
         return params.map((cur) => {
           const colour = cur.result == "Fail" ? "#FFDADA" : "#E0FFDA";
           const icon = cur.result == "Fail" ? <CloseIcon/>: <DoneIcon/>;
-          return (
-            
+          return (<>
+            {cur.element === type_of_element?
+            (
             <div>
               <TableHead style={{
                         display: "flex",
@@ -98,12 +99,13 @@ export const Properties= (props) => {
                             setStatusText(cur.result);
                             setElementProp(cur.Property);
                             setRemark(cur.remark);
-                            setShowDetails(!showDetails);
+                            setShowDetails(true);
                           }}
                         >
                           <FileOpenIcon/>
                       </Button></TableCell></TableHead>
-            </div>
+            </div> ) : null}
+            </>
           );
         });
       };
@@ -272,7 +274,7 @@ export const Properties= (props) => {
                      <TableCell size="small" >Element</TableCell>
                      <TableCell size="small">Status</TableCell>
                      <TableCell size="small">Details</TableCell></TableHead>
-                    {showDetailsForLists("Walls")}
+                    {showDetailsForLists("Wall")}
                   </List>
                 </Collapse>
               </Collapse>
