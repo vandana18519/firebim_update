@@ -1,0 +1,609 @@
+[
+    {
+        "_id": "req_611a0824cd4b4794a250e986669d4835_A",
+        "model": "Firebim_sample_A.rvt",
+        "last_update": "2019-03-06T22:24:30.310Z",
+        "image": "/Image/img1.png",
+            "params": [
+                {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Floor",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },	{
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },	{
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },	{
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },	{
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },	{
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },	{
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },	{
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                }
+                
+            ]
+    },
+    {
+        "_id": "req_611a0824cd4b4794a250e986669d4835_B",
+        "model": "Firebim_sample_B.rvt",
+        "last_update": "2019-03-06T22:24:30.310Z",
+        "image": "/Image/img1.png",
+            "params": [
+                {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                    {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },	{
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },	{
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },	{
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },	{
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },	{
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },	{
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },	{
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",
+                    "Property": "Firerating 60mins",
+                    "result": "Fail",
+                    "remark": "It didn't meet the requirements of 90mins required for top floor of 75M"
+                },
+                {
+                    "element_id": "123",
+                    "element": "Wall",						
+                    "Property": "Firerating 90mins",
+                    "result": "Pass",
+                    "remark": "It fufils the requirements"
+                }
+                
+            ]
+    }
+                
+]
