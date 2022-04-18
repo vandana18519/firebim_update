@@ -5,12 +5,6 @@ import ListItemText from "@mui/material/ListItemText";
 import Collapse from "@mui/material/Collapse";
 import ExpandLess from "@mui/icons-material/ExpandLess";
 import ExpandMore from "@mui/icons-material/ExpandMore";
-import ListSubheader from "@mui/material/ListSubheader";
-import ListItemIcon from "@mui/material/ListItemIcon";
-import InboxIcon from "@mui/icons-material/MoveToInbox";
-import DraftsIcon from "@mui/icons-material/Drafts";
-import SendIcon from "@mui/icons-material/Send";
-import StarBorder from "@mui/icons-material/StarBorder";
 import Table from '@mui/material/Table';
 import TableBody from '@mui/material/TableBody';
 import TableContainer from '@mui/material/TableContainer';
@@ -23,9 +17,7 @@ import CloseIcon from '@mui/icons-material/Close';
 import DoneIcon from '@mui/icons-material/Done';
 import ArrowRightOutlinedIcon from '@mui/icons-material/ArrowRightOutlined';
 import TableCell, { tableCellClasses } from '@mui/material/TableCell';
-
 import {Button} from "./Button";
-import Details from "./Details";
 // import Testcomp from "./Testcomp";
 
 export const Properties= (props) => {
@@ -110,22 +102,22 @@ export const Properties= (props) => {
         });
       };
     
-    const getAllModelsList = () => {
-      return params.map((cur, index) => {
+    // const getAllModelsList = () => {
+    //   return params.map((cur, index) => {
         
-        return (
+    //     return (
           
-          <List component="div" disablePadding>
-            <ListItemButton sx={{ pl: 4 }}>
-              <div>
-                <div>Element Name: {cur.element}</div>
+    //       <List component="div" disablePadding>
+    //         <ListItemButton sx={{ pl: 4 }}>
+    //           <div>
+    //             <div>Element Name: {cur.element}</div>
                 
-              </div>
-            </ListItemButton>
-          </List>
-        );
-      });
-    };
+    //           </div>
+    //         </ListItemButton>
+    //       </List>
+    //     );
+    //   });
+    // };
     const StyledTableCell = styled(TableCell)(({ theme }) => ({
       [`&.${tableCellClasses.head}`]: {
         backgroundColor: theme.palette.common.black,

@@ -3,16 +3,17 @@ import Heading from './Heading'
 import Home from './Homecopy'
 import ModelList from './ModelList'
 import Mode from './Mode'
+import Dignostic_rating from './Dignostic_rating';
 // import Testcomp from './Testcomp';
 
 
 function App() {
   return (
     <div className="App">
-      <Heading/>
-      {/* <Home/> */}
-      <ModelList/>
-      {/* <Testcomp/> */}
+      {/* <Heading/> */}
+      <Dignostic_rating/>
+      {/* <ModelList/> */}
+      
     </div>
   );
 }
